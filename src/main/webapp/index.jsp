@@ -904,7 +904,7 @@
                 </div>
             </div>
             <div class="product-card">
-                <span class="product-badge">-30%</span>
+                <span class="product-badge">-25%</span>
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
                     <h3>Apple Watch Series 8</h3>
